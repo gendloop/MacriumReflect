@@ -1,9 +1,9 @@
-# RepoName
+# MacriumReflect
 
 ## Install
 
 ```powershell
-scoop install gendloopBucket/RepoName
+scoop install gendloopBucket/MacriumReflect
 ```
 
 ## Notes
