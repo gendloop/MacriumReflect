@@ -1,0 +1,5 @@
+
+PROJECT_NAME=MacriumReflect
+MacriumReflect_VERSION_MAJOR=8
+MacriumReflect_VERSION_MINOR=0
+MacriumReflect_VERSION_PATCH=7279
